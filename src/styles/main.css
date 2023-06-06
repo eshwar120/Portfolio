@@ -1,0 +1,102 @@
+.skills {
+    min-height: 85vh;
+    height: fit-content;
+    background-color: #1a1a1a;
+    padding: 8% 5%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.skills h2 {
+    text-align: center;
+}
+
+svg {
+    width: 30px;
+    height: 30px;
+}
+
+.outer-progress-bar {
+    width: 100%;
+    height: 4px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.inner-progres-bar {
+    height: 4px;
+    background-color: #d43f52;
+}
+
+.skill-name {
+    margin-left: 20px;
+}
+
+.js-bar {
+    width: 90%;
+}
+
+.html-bar {
+    width: 85%;
+}
+
+.css-bar {
+    width: 85%;
+}
+
+.react-bar {
+    width: 80%;
+}
+
+.node-bar {
+    width: 85%;
+}
+
+.express-bar {
+    width: 85%;
+}
+
+.mongo-bar {
+    width: 80%;
+}
+
+.logo {
+    width: 100%;
+    display: flex;
+}
+
+.name-percent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.html {
+    width: 85%;
+}
+
+.js {
+    width: 90%;
+}
+
+.css {
+    width: 85%;
+}
+
+.react {
+    width: 80%;
+}
+
+.node {
+    width: 85%;
+}
+
+.express {
+    width: 85%;
+}
+
+.mongo {
+    width: 80%;
+}
+
